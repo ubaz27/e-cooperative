@@ -95,10 +95,9 @@
                             <ul class="mobile-menu-nav">
                                 <li><a data-toggle="collapse" data-target="#Charts" href="#">Home</a>
                                     <ul class="collapse dropdown-header-top">
-                                        <li><a href="dashboard.php">Dashboard</a></li>
-                                        <li><a href="password_change.php">Change Password</a></li>
-                                         <li><a href="logout.php">log Out </a></li>
-                                        <!--  -->
+                                        {{-- <li><a href="{{ route('book.showPages') }}">Home</a></li> --}}
+                                       
+                                        
                                     </ul>
                                 </li>
                                 <!--<li><a data-toggle="collapse" data-target="#demoevent" href="#">Email</a>-->
@@ -142,11 +141,8 @@
                 <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                     <ul class="nav nav-tabs notika-menu-wrap menu-it-icon-pro">
                         <li class="active"><a data-toggle="tab" href="#Home"><i class="notika-icon notika-house"></i> Home</a>
-                        </li>
-                        <!--<li><a data-toggle="tab" href="#mailbox"><i class="notika-icon notika-mail"></i> Email</a>-->
-                        </li>
-                        <li><a data-toggle="tab" href="#Interface"><i class="notika-icon notika-edit"></i> Result</a>
-                        </li>
+                          
+                      
                         <li><a data-toggle="tab" href="#settings"><i class="notika-icon notika-edit"></i> Settings</a>
                         </li>
                         
@@ -157,7 +153,7 @@
                             <ul class="notika-main-menu-dropdown">
                                 <li><a href="dashboard.php">Dashboard</a>
                                 </li>
-                                <li><a href="password_change.php">Change Password</a>
+                                <li><a href="">New Site</a>
                                 </li>
                                 <li><a href="logout.php">log Out </a></li>
                             </ul>
