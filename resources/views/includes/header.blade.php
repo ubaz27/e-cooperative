@@ -142,8 +142,8 @@
                     <ul class="nav nav-tabs notika-menu-wrap menu-it-icon-pro">
                         <li class="active"><a data-toggle="tab" href="#Home"><i class="notika-icon notika-house"></i> Home</a>
                           
-                      
-                        <li><a data-toggle="tab" href="#settings"><i class="notika-icon notika-edit"></i> Settings</a>
+                          <li><a data-toggle="tab" href="#Interface"><i class="notika-icon notika-edit"></i>Administrator</a>
+                        <li><a data-toggle="tab" href="#settings"><i class="notika-icon notika-edit"></i> Member</a>
                         </li>
                         
                         
@@ -151,11 +151,11 @@
                     <div class="tab-content custom-menu-content">
                         <div id="Home" class="tab-pane in active notika-tab-menu-bg animated flipInX">
                             <ul class="notika-main-menu-dropdown">
-                                <li><a href="dashboard.php">Dashboard</a>
+                                <li><a href="dashboard.php">Home</a>
                                 </li>
                                 <li><a href="{{ url('/book') }}">New Site</a>
                                 </li>
-                                <li><a href="logout.php">log Out </a></li>
+                                <li><a href="logout.php">Contact Us </a></li>
                             </ul>
                         </div>
                         <!--<div id="mailbox" class="tab-pane notika-tab-menu-bg animated flipInX">-->
@@ -171,22 +171,18 @@
                         <div id="Interface" class="tab-pane notika-tab-menu-bg animated flipInX">
                             <ul class="notika-main-menu-dropdown">
                                 
-                                  <li><a href="single_entry.php">Single</a>
+                                  <li><a href="single_entry.php">Executives</a>
                                 </li>
-                                <li><a href="batch_entry.php">Batch</a>
+                                <li><a href="batch_entry.php">Login</a>
                                 </li>
-                                <li><a href="class_entry.php">Per Class</a>
-                                </li>
-                                
-                                <li><a href="prepare.php">Prepare Result</a></li>                               
-                                <li><a href="report.php">Report Sheets</a></li>
+                               
                             </ul>
                         </div>
                         <div id="settings" class="tab-pane notika-tab-menu-bg animated flipInX">
                             <ul class="notika-main-menu-dropdown">
-                                <li><a href="view-classes.php">Classes</a>
+                                <li><a href="view-classes.php">Login</a>
                                 </li>
-                                <li><a href="view-subjects.php">Subjects</a>
+                                <li><a href="view-subjects.php">Documentation</a>
                                 </li>
                             </ul>
                         </div>

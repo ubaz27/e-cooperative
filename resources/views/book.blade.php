@@ -20,7 +20,7 @@
     <script type="text/javascript" src="https://demo.focuxtheme.com/magicbook-fashion/wp-content/themes/magicbook/js/respond.min.js"></script>
     <![endif]-->
 
-    <title>MagicBook Fashion &#8211; Just another FocuxTheme Demos site</title>
+    <title>e-cooperative</title>
 <meta name='robots' content='max-image-preview:large' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel="alternate" type="application/rss+xml" title="MagicBook Fashion &raquo; Feed" href="https://demo.focuxtheme.com/magicbook-fashion/feed/" />
@@ -139,10 +139,10 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 <div class="intro-wrapper">
       <div class="intro-content">
-         <h1>MagicBook		 </h1>
+         <h1>NASCS NICS		 </h1>
          <div id="aline"></div>
          
-                  <p>MagicBook is a real 3D flip book template with unlimited page number,cool 3D menu, responsive feature and easy customization etc.		 </p>
+                  <p>About the NASCS will be displayed here</p>
                   
                    <button id="open-it" class="btn">Read me</button>
                 </div>
@@ -179,7 +179,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 </div>
 	<div class="wpb_text_column wpb_content_element " >
 		<div class="wpb_wrapper" style="">
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla non magna eu leo placerat accumsan. Maecenas cursus augue id tincidunt sagittis Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla non magna eu leo placerat accumsan. Maecenas cursus augue id tincidunt sagittis.</p>
+			<p>About the nascs nisc</p>
 
 		</div>
 	</div>
@@ -215,8 +215,8 @@ It is a long established fact that a reader will be distracted by the readable c
 	<div class="vc_col-sm-6 bb-custom-side">
 		<div class="content-wrapper">
 			<div class="container">
-				<div class="vc_separator wpb_content_element big vc_separator_align_center vc_sep_width_100 vc_sep_double vc_sep_pos_align_center vc_sep_color_black medium vc_separator-has-text"><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><h4 >Portfolios</h4><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
-</div><ul id="portfolio-filter-U00Rat5H45"" class="portfolio-filters">
+				<div class="vc_separator wpb_content_element big vc_separator_align_center vc_sep_width_100 vc_sep_double vc_sep_pos_align_center vc_sep_color_black medium vc_separator-has-text"><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><h4 >Admin</h4><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+</div><ul id="portfolio-filter-U00Rat5H45" class="portfolio-filters">
 				<li class="active" data-filter="*">All</li><li data-filter=".audio">Audio</li><li data-filter=".costume">Costume</li><li data-filter=".photograph">Photograph</li><li data-filter=".video">Video</li></ul><div id="portfolio-container-U00Rat5H45"" class="portfolio-container"><div class="portfolio-item photograph">
 				     <img width="800" height="534" src="https://demo.focuxtheme.com/magicbook-fashion/wp-content/uploads/sites/11/2014/09/5334880685_5d666af01c_b-1.jpg" class="attachment-portfolio_thumbnail size-portfolio_thumbnail wp-post-image" alt="" decoding="async" loading="lazy" />
 					 <div class="mask">
@@ -289,7 +289,7 @@ It is a long established fact that a reader will be distracted by the readable c
 				<div class="vc_separator wpb_content_element big vc_separator_align_center vc_sep_width_100 vc_sep_double vc_sep_pos_align_center vc_sep_color_black medium vc_separator-has-text"><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><h4 >Testimonials</h4><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
 </div> <div class="testimonials-wrapper">                      
 			<div class="testimonials-item"><img src="https://demo.focuxtheme.com/magicbook-fashion/wp-content/uploads/sites/11/2014/09/test-01.jpg" alt="Linda Stevenson" /><div class="testimonial">                                        
-					<p>Consectetur adipiscing elit. Integer commodo tristique odio, quis fringilla ligula aliquet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit tristique odio, quis fringilla ligula aliquet ut. Lorem ipsum dolor sit amet adipiscing elit. Integer commodo tristique odio, quis fringilla ligula aliquet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit tristique odiot.</p>
+					<p>LInk here</p>
 					<h4>Linda Stevenson<span> — client for over 5 years</span></h4>
 				</div>
 			</div>
