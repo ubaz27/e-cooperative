@@ -17,7 +17,11 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('/book', function () {
-    return view('book');
-});
+// this is working
+// Route::get('/book', function () {
+//     return view('book');
+// });
 
+
+// this is not working
+Route::get('/book', 'PageController@index');
