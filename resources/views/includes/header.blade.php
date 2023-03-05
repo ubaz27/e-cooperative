@@ -153,7 +153,7 @@
                             <ul class="notika-main-menu-dropdown">
                                 <li><a href="dashboard.php">Dashboard</a>
                                 </li>
-                                <li><a href="">New Site</a>
+                                <li><a href="{{ url('/book') }}">New Site</a>
                                 </li>
                                 <li><a href="logout.php">log Out </a></li>
                             </ul>
