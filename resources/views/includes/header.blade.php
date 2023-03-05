@@ -173,14 +173,14 @@
                                 
                                   <li><a href="single_entry.php">Executives</a>
                                 </li>
-                                <li><a href="batch_entry.php">Login</a>
+                                <li><a href="https://nascs-nics.e-cooperative.com.ng/admin">Login</a>
                                 </li>
                                
                             </ul>
                         </div>
                         <div id="settings" class="tab-pane notika-tab-menu-bg animated flipInX">
                             <ul class="notika-main-menu-dropdown">
-                                <li><a href="view-classes.php">Login</a>
+                                <li><a href="https://nascs-nics.e-cooperative.com.ng/member">Login</a>
                                 </li>
                                 <li><a href="view-subjects.php">Documentation</a>
                                 </li>
