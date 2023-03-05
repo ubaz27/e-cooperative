@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PageController;
 
 /*
 |--------------------------------------------------------------------------
@@ -24,4 +25,5 @@ Route::get('/', function () {
 
 
 // this is not working
-Route::get('/book', 'PageController@index');
+// Route::get('/book', 'PageController@index');
+Route::get('/book', [PageController::class,'index'])->name('index');
