@@ -184,7 +184,7 @@ body {}
 /*  2.  Header Top CSS
 /*----------------------------------------*/
 .header-top-area, .footer-copyright-area{
-	background:#ffc90e;
+	background:#0ec3ff;
 }
 .logo-area{
 	padding:14px 0px;
@@ -4429,23 +4429,23 @@ textarea.auto-size {
 }
 .header-top-area.dark-header, .footer-copyright-area.dark-footer{
 	/*background:#232b32;*/
-    background:#ffc90e;
+    background:#0ec3ff;
 }
 .header-top-area.dark-header .menu-switcher-pro .btn.bar-button-pro{
 	/*background:#232b32;*/
-       background:#ffc90e;
+       background:#0ec3ff;
 }
 .header-top-area.dark-header .menu-switcher-pro {
     /*border-right: 1px solid #363c3a;*/
-     border-right: 1px solid #ffc90e;
+     border-right: 1px solid #0ec3ff;
 }
 .header-top-area.dark-header .nav.notika-top-nav>li>a:focus, .header-top-area.dark-header .nav.notika-top-nav>li>a:hover, .header-top-area.dark-header .nav.notika-top-nav>li>a:active {
     /*background: #232b32;*/
-       background:#ffc90e;
+       background:#0ec3ff;
 }
 .header-top-area.dark-header .nav.notika-top-nav .open>a, .header-top-area.dark-header .nav.notika-top-nav .open>a:focus, .header-top-area.dark-header .nav.notika-top-nav .open>a:hover {
     /*background: #232b32;*/
-       background:#ffc90e;
+       background:#0ec3ff;
 }
 /*----------------------------------------*/
 /*  53. Dark Sidebar Layout CSS

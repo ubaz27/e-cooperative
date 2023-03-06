@@ -26,4 +26,7 @@ Route::get('/', function () {
 
 // this is not working
 // Route::get('/book', 'PageController@index');
-Route::get('/book', [PageController::class,'index'])->name('index');
+Route::get('/documentation', [PageController::class,'showDocumentation'])->name('showDocumentation');
+Route::get('/form', [PageController::class,'showForm'])->name('showForm');
+Route::get('/fqa', [PageController::class,'showFQA'])->name('showFQA');
+Route::get('/executive', [PageController::class,'showExecutive'])->name('showExecutive');

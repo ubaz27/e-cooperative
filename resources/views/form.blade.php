@@ -2,14 +2,13 @@
     <!-- Main Menu area End-->
     <!-- Start Status area -->
     
-
     <div class="notika-email-post-area">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="email-statis-inner notika-shadow">
                         <div class="email-ctn-round">
-                           HOme
+                           
                        
                         </div>
                     </div>

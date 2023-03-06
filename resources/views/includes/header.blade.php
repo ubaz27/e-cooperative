@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Result Engine | BMF Islamiyyah</title>
+    <title>@yield('title', 'NASCS | NISC')</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- favicon
@@ -96,7 +96,15 @@
                                 <li><a data-toggle="collapse" data-target="#Charts" href="#">Home</a>
                                     <ul class="collapse dropdown-header-top">
                                         {{-- <li><a href="{{ route('book.showPages') }}">Home</a></li> --}}
-                                       
+                                        <li><a href="">Home</a>
+                                        </li>
+                                        <li><a href="{{ url('/documentation')}}">Documentation</a></li>
+                                        <li><a href="{{ url('/form')}}">Form</a></li>
+                                        <li><a href="{{ url('/book') }}">New Site</a>
+                                        </li>
+                                        <li><a href="{{ url('/faq')}}">FQA</a></li>
+                                        
+                                        <li><a href="">Contact Us </a></li>
                                         
                                     </ul>
                                 </li>
@@ -107,22 +115,17 @@
                                 <!--        <li><a href="compose-email.html">Compose Email</a></li>-->
                                 <!--    </ul>-->
                                 <!--</li>-->
-                                <li><a data-toggle="collapse" data-target="#democrou" href="#">Result</a>
+                                <li><a data-toggle="collapse" data-target="#democrou" href="#">Executive</a>
                                     <ul id="democrou" class="collapse dropdown-header-top">
-                                           <li><a href="single_entry.php">Signle Upload</a></li>
-                                        <li><a href="batch_entry.php">Batch Upload</a></li>
-                                        <li><a href="class_entry.php">Per Class</a></li>
-                                         <li><a href="prepare.php">Prepare Result</a></li>                                        
-                                     
-                                         <li><a href="report.php">Report Sheet</a></li>
-                                        
+                                      <li><a href="{{ url('/executive')}}">Executives</a>
+                                      </li>
+                                      <li><a href="https://nascs-nics.e-cooperative.com.ng/admin">Login</a>
+                                      </li>
                                     </ul>
                                 </li>
-                                <li><a data-toggle="collapse" data-target="#demoevent" href="#">Settings</a>
+                                <li><a data-toggle="collapse" data-target="#demoevent" href="#">Member</a>
                                     <ul id="demoevent" class="collapse dropdown-header-top">
-                                        <li><a href="view-classes.php">Classes</a></li>
-                                        <li><a href="view-subjects.php">Subjects</a></li>
-                                        <!-- <li><a href="compose-email.html">Compose Email</a></li> -->
+                                      <li><a href="https://nascs-nics.e-cooperative.com.ng/admin">Login</a></li>
                                     </ul>
                                 </li>
                                                                 
@@ -142,7 +145,7 @@
                     <ul class="nav nav-tabs notika-menu-wrap menu-it-icon-pro">
                         <li class="active"><a data-toggle="tab" href="#Home"><i class="notika-icon notika-house"></i> Home</a>
                           
-                          <li><a data-toggle="tab" href="#Interface"><i class="notika-icon notika-edit"></i>Administrator</a>
+                        <li><a data-toggle="tab" href="#Interface"><i class="notika-icon notika-edit"></i>Administrator</a>
                         <li><a data-toggle="tab" href="#settings"><i class="notika-icon notika-edit"></i> Member</a>
                         </li>
                         
@@ -151,39 +154,25 @@
                     <div class="tab-content custom-menu-content">
                         <div id="Home" class="tab-pane in active notika-tab-menu-bg animated flipInX">
                             <ul class="notika-main-menu-dropdown">
-                                <li><a href="dashboard.php">Home</a>
-                                </li>
-                                <li><a href="{{ url('/book') }}">New Site</a>
-                                </li>
-                                <li><a href="logout.php">Contact Us </a></li>
+                                <li><a href="{{ url('/')}}">Home</a></li>
+                                <li><a href="{{ url('/documentation')}}">Documentation</a></li>
+                                <li><a href="{{ url('/form')}}">Form</a></li>
+                                <li><a href="{{ url('/book') }}">New Site</a></li>
+                                <li><a href="{{ url('/fqa')}}">FQA</a></li>
+                                <li><a href="">Contact Us </a></li>
                             </ul>
                         </div>
-                        <!--<div id="mailbox" class="tab-pane notika-tab-menu-bg animated flipInX">-->
-                        <!--    <ul class="notika-main-menu-dropdown">-->
-                        <!--        <li><a href="inbox.html">Inbox</a>-->
-                        <!--        </li>-->
-                        <!--        <li><a href="view-email.html">View Email</a>-->
-                        <!--        </li>-->
-                        <!--        <li><a href="compose-email.html">Compose Email</a>-->
-                        <!--        </li>-->
-                        <!--    </ul>-->
-                        <!--</div>-->
                         <div id="Interface" class="tab-pane notika-tab-menu-bg animated flipInX">
                             <ul class="notika-main-menu-dropdown">
                                 
-                                  <li><a href="single_entry.php">Executives</a>
-                                </li>
-                                <li><a href="https://nascs-nics.e-cooperative.com.ng/admin">Login</a>
-                                </li>
+                              <li><a href="{{ url('/executive')}}">Executives</a></li>
+                                <li><a href="https://nascs-nics.e-cooperative.com.ng/admin">Login</a> </li>
                                
                             </ul>
                         </div>
                         <div id="settings" class="tab-pane notika-tab-menu-bg animated flipInX">
                             <ul class="notika-main-menu-dropdown">
-                                <li><a href="https://nascs-nics.e-cooperative.com.ng/member">Login</a>
-                                </li>
-                                <li><a href="view-subjects.php">Documentation</a>
-                                </li>
+                                <li><a href="https://nascs-nics.e-cooperative.com.ng/member">Login</a></li>
                             </ul>
                         </div>
 
