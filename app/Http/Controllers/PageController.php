@@ -25,4 +25,18 @@ class PageController extends Controller
     {
         return view('executive');
     }
+
+    public function showCouncil()
+    {
+        return view('council');
+    }
+
+    public function showAbout()
+    {
+        return view('about');
+    }
+    public function showContact()
+    {
+        return view('contact');
+    }
 }

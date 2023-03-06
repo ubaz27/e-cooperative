@@ -119,8 +119,9 @@
                                     <ul id="democrou" class="collapse dropdown-header-top">
                                       <li><a href="{{ url('/executive')}}">Executives</a>
                                       </li>
-                                      <li><a href="https://nascs-nics.e-cooperative.com.ng/admin">Login</a>
+                                      <li><a href="{{ url('/council')}}">Council(Shurah)</a>
                                       </li>
+                                      
                                     </ul>
                                 </li>
                                 <li><a data-toggle="collapse" data-target="#demoevent" href="#">Member</a>
@@ -159,14 +160,17 @@
                                 <li><a href="{{ url('/form')}}">Form</a></li>
                                 <li><a href="{{ url('/book') }}">New Site</a></li>
                                 <li><a href="{{ url('/fqa')}}">FQA</a></li>
-                                <li><a href="">Contact Us </a></li>
+                                <li><a href="{{ url('/about')}}">About Us </a></li>
+                                <li><a href="{{ url('/contact')}}">Contact Us </a></li>
                             </ul>
                         </div>
                         <div id="Interface" class="tab-pane notika-tab-menu-bg animated flipInX">
                             <ul class="notika-main-menu-dropdown">
                                 
                               <li><a href="{{ url('/executive')}}">Executives</a></li>
-                                <li><a href="https://nascs-nics.e-cooperative.com.ng/admin">Login</a> </li>
+                              <li><a href="{{ url('/council')}}">Council(Shurah)</a>
+                              </li>
+                                
                                
                             </ul>
                         </div>
