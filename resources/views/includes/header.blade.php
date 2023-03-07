@@ -115,7 +115,7 @@
                                 <!--        <li><a href="compose-email.html">Compose Email</a></li>-->
                                 <!--    </ul>-->
                                 <!--</li>-->
-                                <li><a data-toggle="collapse" data-target="#democrou" href="#">Executive</a>
+                                <li><a data-toggle="collapse" data-target="#democrou" href="#">Galary</a>
                                     <ul id="democrou" class="collapse dropdown-header-top">
                                       <li><a href="{{ url('/executive')}}">Executives</a>
                                       </li>
@@ -146,7 +146,7 @@
                     <ul class="nav nav-tabs notika-menu-wrap menu-it-icon-pro">
                         <li class="active"><a data-toggle="tab" href="#Home"><i class="notika-icon notika-house"></i> Home</a>
                           
-                        <li><a data-toggle="tab" href="#Interface"><i class="notika-icon notika-edit"></i>Administrator</a>
+                        <li><a data-toggle="tab" href="#Interface"><i class="notika-icon notika-edit"></i>Galary</a>
                         <li><a data-toggle="tab" href="#settings"><i class="notika-icon notika-edit"></i> Member</a>
                         </li>
                         
