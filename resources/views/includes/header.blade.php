@@ -100,8 +100,8 @@
                                         </li>
                                         <li><a href="{{ url('/documentation')}}">Documentation</a></li>
                                         <li><a href="{{ url('/form')}}">Form</a></li>
-                                        <li><a href="{{ url('/book') }}">New Site</a>
-                                        </li>
+                                        {{-- <li><a href="{{ url('/book') }}">New Site</a>
+                                        </li> --}}
                                         <li><a href="{{ url('/faq')}}">FQA</a></li>
                                         
                                         <li><a href="">Contact Us </a></li>
@@ -158,7 +158,7 @@
                                 <li><a href="{{ url('/')}}">Home</a></li>
                                 <li><a href="{{ url('/documentation')}}">Documentation</a></li>
                                 <li><a href="{{ url('/form')}}">Form</a></li>
-                                <li><a href="{{ url('/book') }}">New Site</a></li>
+                                {{-- <li><a href="{{ url('/book') }}">New Site</a></li> --}}
                                 <li><a href="{{ url('/fqa')}}">FQA</a></li>
                                 <li><a href="{{ url('/about')}}">About Us </a></li>
                                 <li><a href="{{ url('/contact')}}">Contact Us </a></li>

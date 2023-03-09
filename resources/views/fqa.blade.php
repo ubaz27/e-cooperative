@@ -142,16 +142,126 @@
 
 
 
-                            <li><h5></h5></li>
+                            <li><h5>How would the NASCS NICS provide financing to members?</h5></li>
+                            <span>NASCS NICS would provide financing through the following financing Products:</span>
+                            <p>
+                                <ol>
+                                    <li><b>Murabaha (cost plus mark up financing).</b> Murabaha is a sale contract whereby the institution sells to a customer a specified kind of asset that is already in its possession, whereby the selling price is the sum of the original price and an agreed profit margin. </li> 
+                                    <span style="text-align: left;"> Murabaha would have the following features:</span>  
+                                    <ul>
+                                        <li>i. A member would identify a particular item he/she wishes the Society to buy on his/her behalf (preferably the item should be available in the shop of one of the Society’s authorized/appointed dealers)</li>
+                                        <li>ii.	The member would complete a Murabaha requisition form requesting the Society to purchase the identified item on his/her behalf and giving his/her commitment to purchase same from the Society.</li>
+                                        <li>iii.	The Society would purchase the item from the dealer and sell same to the member after disclosing the full purchase price and after agreeing on the selling price (which includes the mark up).</li>
+                                        <li>iv.	The Society pays the Dealer directly either immediately or on deferred time, depending on the agreement between the Society and the dealer.</li>
+                                        <li>v.	The member then pays the Society on a deferred date within a maximum period of 12 months or any period of time as may be determined by the MC from time to time</li>
+                                        <li>vi.	A member must have a minimum of 20% of the purchase price in his/her regular savings account.</li>
+
+
+                                    </ul>
+<br>
+                                    <li><b>IJARAH (LEASE)</b> It is a contract of lease whereby the lessor leases an asset to the lessee for a specified period of time by paying rentals over the period of the lease contract. The lessor retains the ownership of the asset with all the rights and the responsibilities that go with ownership.</li>
+                                    <p>It would have the following features:</p>
+                                    <ul>
+                                        <li>i.	A member would identify a particular asset or service he/she wishes to lease from the Society</li>
+                                        <li>ii.	The member would complete an Ijarah requisition form requesting the Society to purchase the identified item on his/her behalf and giving his/her commitment to lease same from the Society.</li>
+                                        <li>iii.	The Society would purchase the item (asset or service from the vendor) and lease same to the member at a rental fee which would be determined by the MC</li>
+                                        <li>iv.	The member would be paying the Society rental fees on a monthly basis over a maximum period of 5 years or any period of time as may be determined by the MC.</li>
+                                        <li>v.	A member must have a minimum of 20% of the purchase price in his/her regular savings account.</li>
+                                        <li>vi.	The Society could give the member a promise to sell the item to the member (lease) the leased property at the prevailing market price to be agreed at the time of the lease.</li>
+                                    </ul>
+                                    <br>
+
+                                    <li><b>Musharaka (partnership)</b> This is a partnership between the NASCS NICS and a member where the two contribute money to purchase an asset for the benefit of the cooperator. It would have the following features:</li>
+                                    <ul>
+                                        <li>i.	The member identifies an asset and gives commitment/request to partner NASCS NICS to purchase the asset</li>
+                                        <li>ii.	The member would complete a requisition form.</li>
+                                        <li>iii.	The partner is to contribute at least 20% or any percentage as may be approved of the MC of the cost of the asset to be purchased.</li>
+                                        <li>iv.	After purchasing the asset, the society leases its portion of the asset to the member and the member would be expected to be paying monthly rental and part payment of the principal yearly until he/she finishes paying for the asset and must have bought over the portion of the Society.</li>
+                                    </ul>
+                                    <br>
+                                    This is to be used in home financing (for completed houses) purchased by the Society in partnership with member
+
+                                    <br>
+                                    <br>
+                                    <li><b>Diminishing Partnership (Musharaka Mutanaqisah) </b> This is a form of partnership between NASCS NICS and a member where the two parties partner to purchase an asset based on a request from the member, with a promise by the member to gradually buy back the share of NASCS NICS in the underlying asset until the asset is completely transferred back to the member. It is to be used mainly for housing finance. </li>
+                                    <p>The buying and selling is not to be stipulated in the partnership contract, only the promise to buy back should be contained therein which is independent of the partnership contract.</p>
+                               
+                                    <p><b>Features:</b> <br>
+                                        <ul>
+                                            <li>i.	A member identifies a property and request NASCS NICS to partner with him to purchase same.</li>
+                                            <li>ii.	NASCS NICS would authorize the member to act as its agent to negotiate the price of the property on behalf of the two of them.</li>
+                                            <li>iii.	NASCS NICS and the member would agree mutually on the percentage of the price that each partner is to contribute towards the purchase of the property which could be in the ratio of 60:40, 50:50, or any percentage as may be mutually agreed and approved by the MC.</li>
+                                            <li>iv.	NASCS NICS would authorize the member to undertake the purchase of the property from the vendor (on behalf of the two of them) and record the title (register it) directly in his/her name, but arrange to perfect a lien (implied co-ownership) on the property in favor of NASCS NICS.</li>
+                                            <li>v.	In order to protect the property against unforeseen eventualities, takaful (insurance) is to be taken on the property over the life of the property, the cost of which is to be factored in the total cost of the property.</li>
+                                            <li>vi.	The member would then offer to buy and NASCS NICS would accept to sell its share/units in the property at the purchase price over an agreed period of time, with an undertaking by the member to repay the purchase price on monthly installments over the agreed period of time until the member acquires the entire share of NASCS NICS in the underlying property.</li>
+                                            <li>vii.	Both NASCS NICS and the member would jointly agree on the fair rental value of the property and the member would undertake to rent the portion of the property owned by NASCS NON-INTEREST COOPERATIVE SOCIETY on the agreed rental fee over an agreed rental period.</li>
+                                            <li>viii.	The monthly payment paid by the member over the agreed financing period would consists of a portion meant for the purchase of the equity share of NASCS NON-INTEREST COOPERATIVE SOCIETY in the underlying property and an amount equal to NASCS NICS proportional share of the agreed rental value.</li>
+                                            <li>ix.	NASCS NICS and the member could agree on any other repayment model that is best suited for them different from the one mentioned in “7” above. For example, they could agree to rental payment be made on monthly basis while repayment of the loan to be made yearly or vice versa.</li>
+                                            <li>x.	NASCS NICS and the member are to agree on the amount of the rental payment on yearly basis. In arriving at the yearly rental payment, the factors are to be taking into consideration:</li>
+                                                <ul style="padding-left: 20px;">
+                                                    <li>a.	The prevailing market rental rate for properties in the vicinity where the subject property is located;</li>
+                                                    <li>b.	NASCS NICS’ equity share in the underlying property (which is expected to be diminishing) and the member’s share in the property (which is expected to be on the increase)
+
+                                                    </li>
+                                                </ul>
+
+                                                <li>xi.	Upon full Repayment of the value of the property, NASCS NICS is to release its lien back to the member, which implies that the ownership of the property have reverted fully back to the member.</li>
+                                        </ul>
+                                    </p>
+                               
+                                    
+                                </ol>
+                            </p>
+
+                            <li><h5>Who will oversee the operations NASCS NICS?</h5></li>
+                            <p>NASCS NICS will be managed by active staff of the NASC, who will be members of the MC.</p>
+
+                            <li><h5>Who will handle the day to day operations of the Society?</h5></li>
+                            <p>The Society will employ administrative officers who will handle the day to day operations according to the laws of the Cooperative Society and its internal employment policies and procedures.</p>
+
+                            <li><h5>Whose responsibility is it to ensure that the operations of the Society conform to the principles of non-interest (Islamic) finance?</h5></li>
+                            <p>The Society shall have an Advisory Council (AC) that would be responsible for ensuring that the operations of the Society always conform to the principles of non-interest (Islamic) finance. The AC shall have five (5) members comprising the President of the Society, two (2) members of the Society and two (2) other members who could be external members that are versed in the principles of Islamic Commercial Jurisprudence.
+
+                            </p>
+                            <p>The Annual General Meeting (AGM) has the responsibility of appointing members of the AC based on the recommendation of the MC.</p>
+
+
+                            <li><h5>What risk management arrangement does the Society put in place to secure its investment?</h5></li>
+                            <p>The Society could take takaful (insurance) cover for its financing transactions in addition to taking permissible collateral which could be in the form of putting a lien on the property financed to cater for any unforeseen eventualities.</p>
+                            
+                            <li><h5>Is there going to be General Meeting?</h5></li>
+                            <p>Yes, the Annual General Meeting shall be held within the first quarter of the succeeding year after the Annual Statements of Accounts have been prepared and approved by the Registrar of Cooperatives.</p>
+
+
+
+                            <h5>There should also be Extra-Ordinary General Meeting:</h5>
+                                    <ol style="padding-left: 30px;">
+                                        <li>An Extraordinary General Meeting may be called at any time by the Advisory Council, a majority of the MANAGEMENT COMMITTEE or on request from the Registrar of Cooperatives or from not less than one-fourth of the Members of the Society.</li>
+                                        <li>The notice of such meeting shall clearly state the object to be discussed and no other business shall be transacted or discussed therein.</li>
+                                        <li>Where the Registrar of Cooperatives convenes such meeting, he/she may direct what matters shall be discussed and may not need to give 21 days’ notice as in bye-law 5.4.1 above.</li>
+                                    
+                                    
+                                    </ol>
                             <p></p>
 
-                            <li><h5></h5></li>
-                            <p></p>
+                            <li><h5>Is there room for election of Management Committee?</h5></li>
+                            <p>No, it the responsibility for constitution and appointment of MANAGEMENT COMMITTEE members.</p>
 
-                            <li><h5></h5></li>
-                            <p></p>
 
-                        
+                            <li><h5>What is Advisory Council (SHURAH)?</h5></li>
+                            <p>There is hereby established under this Bye-law, a body to be known as the Advisory Council (AC) to be appointed by the Members of the Society, sitting in a General Meeting on the recommendation of the MANAGEMENT COMMITTEE MC.</p>
+                                    
+                            <h5>Composition of the Advisory Council</h5>
+                            <p>The AC shall consist of minimum of 5 and maximum of 7 members (of which at least one shall be a female) as follows:
+                                <ol style="padding-left: 30px;">
+                                    <li>The President of the Society;</li>
+                                    <li>Two (2) staff of the Commission who are members of the Society one of which must not be below the rank of an Assistant Director (A/D) and the other below the rank of an A/D;</li>
+                                    <li>Two (2) persons who are experts in Islamic Commercial Jurisprudence;</li>
+                                    <li>Provided however that the Advisory Council may consult any other expert when the need arises.</li>
+                                </ol>
+
+
+                            </p>
                         </ol>
                        
                         </div>
@@ -160,6 +270,8 @@
                 <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
                     <div class="recent-post-wrapper notika-shadow sm-res-mg-t-30 tb-res-ds-n dk-res-ds">
                         
+                        <h3>Member Login</h3>
+                        <a href="https://nascs-nics.e-cooperative.com.ng/member" class="btn btn-primary">Login</a>
                         
                     </div>
                 </div>

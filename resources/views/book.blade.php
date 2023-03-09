@@ -5,11 +5,11 @@
     <div class="notika-email-post-area">
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-                    <div class="email-statis-inner notika-shadow">
-                        <div class="email-ctn-round">
+                <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12" draggable="true">
+                    <div class="email-statis-inner notika-shadow" draggable="true">
+                        <div class="" draggable="true" contenteditable = "true">
                         <h3>Contact</h3>
-                       
+                       sss
                         </div>
                     </div>
                 </div>

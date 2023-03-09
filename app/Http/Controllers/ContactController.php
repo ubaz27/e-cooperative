@@ -1,10 +1,12 @@
 <?php
 
 namespace App\Http\Controllers;
+use Exception;
 use App\Models\Contact;
-use App\Models\Mission;
-use Illuminate\Http\Request;
 use App\Models\Message;
+use App\Models\Mission;
+
+use Illuminate\Http\Request;
 
 
 class ContactController extends Controller
@@ -20,12 +22,23 @@ class ContactController extends Controller
     // accept message from people
     public function sendMessage(Request $request)
     {
-        $message = new message;
-        $message->fullname=$request->fullname;
+        $message = new message;  //message as table message
+        // this is a validation data
+        $validated = $request->validate([
+            'fullname' => ['required', 'string'],
+            'enquiry' => ['required' , 'string' , 'min:10' ],
+            // 'enquiry' => 'required|unique:departments',
+        ]);
+
+        $message->fullname=$request->fullname; 
         $message->email=$request->email;
         $message->message=$request->enquiry;
         $message->save();
-        return redirect()-back();
+
+        return redirect()->back()->withErrors([
+            'message' => 'Message Sent Successfully',
+        ])->onlyInput('email');
     }
+
 
 }
