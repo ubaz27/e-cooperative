@@ -22,6 +22,7 @@ class MissionsTableSeeder extends Seeder
             Mission::query()->updateOrCreate([
                 "id"=>$obj['id'],
                 "mission"=>$obj['mission'],
+                "vision"=>$obj['vision'],
             ]);
             
         }

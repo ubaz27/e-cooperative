@@ -23,6 +23,8 @@ class ContactsTableSeeder extends Seeder
                 "id"=>$obj['id'],
                 "email"=>$obj['email'],
                 "phone"=>$obj['phone'],
+                "address"=>$obj['address'],
+                
             ]);
         }
         

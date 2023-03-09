@@ -9,7 +9,10 @@
                     <div class="email-statis-inner notika-shadow">
                         <div class="email-ctn-round">
                           <h3>Our Mission</h3> 
-                          <p>To develop and protect long-term member value.</p>
+                          @foreach ($data as $item)
+                          <p>{{$item->mission}}</p>
+                          @endforeach
+                          
                        
                         </div>
                     </div>
@@ -18,7 +21,11 @@
                     <div class="email-statis-inner notika-shadow">
                         <div class="email-ctn-round">
                         <h3>Our Vision</h3>
-                        <p>To make a real difference to the members we serve.</p>
+                        
+                        @foreach ($data as $item)
+                        <p>{{$item->vision}}</p>
+                        @endforeach
+                        
                     </div>
                     </div>
                 </div>
