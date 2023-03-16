@@ -24,6 +24,12 @@ Route::get('/executive', [PageController::class,'showExecutive'])->name('showExe
 Route::get('/council', [PageController::class,'showCouncil'])->name('showCouncil');
 Route::get('/about', [AboutController::class,'showAbout'])->name('showAbout');
 Route::get('/contact', [ContactController::class,'showContact'])->name('showContact');
+Route::get('/contact2', [ContactController::class,'showContact2'])->name('showContact2');
 
 // this is working for saving to database successfully
  Route::post('/sendMessage', [ContactController::class,'sendMessage'])->name('sendMessage');
+ //Route::post('/contact2', [ContactController::class,'sendMessage2'])->name('sendMessage2');
+
+
+Route::get('contact-us', [ContactController::class, 'index']);
+Route::post('contact-us', [ContactController::class, 'store'])->name('contact.us.store');
